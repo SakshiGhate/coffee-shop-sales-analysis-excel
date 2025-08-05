@@ -18,12 +18,84 @@ Coffee chains often struggle with identifying peak business hours, best-selling 
 The dataset was obtained from [Maven Analytics](https://www.mavenanalytics.io/), a platform offering real-world datasets for portfolio and learning projects.
 
 ## 6. Features / Highlights
-- Interactive and visually structured dashboard
-- Analysis of total and average sales metrics
-- Sales and footfall comparison across multiple locations
-- Hourly and daily order distribution
-- Product category and size distribution analysis
-- Top-selling products and trends
+This project dashboard delivers comprehensive business intelligence using Excel tools, helping stakeholders quickly identify key trends, performance gaps, and growth opportunities. The following are the core features and highlights:
+
+📌 Interactive Filters
+Users can slice data by Month Name and Day Name using Excel slicers.
+
+Dynamic visuals update based on selected timeframes, enabling time-based trend analysis.
+
+🕐 Hourly Sales Trend
+The line chart visualizes Quantity Ordered Based on Hours, revealing peak business hours.
+
+Morning hours (8 AM - 10 AM) show the highest sales volume, helping optimize staffing and promotions during those times.
+
+📅 Weekday Sales Analysis
+Comparative bar chart shows footfall vs revenue for each day of the week.
+
+Enables decision-makers to identify which weekdays drive higher sales and plan special offers on slower days.
+
+🌍 Location-Wise Performance
+Bar chart compares footfall and total sales across different store locations:
+
+Hell's Kitchen
+
+Astoria
+
+Lower Manhattan
+
+Identifies high-performing stores for resource allocation and replication strategies.
+
+💸 Top Performing Products
+Highlights Top 5 Products Based on Sales:
+
+Barista Espresso (highest revenue)
+
+Brewed Chai Tea
+
+Hot Chocolate, etc.
+
+Guides inventory and promotional focus toward most profitable items.
+
+🧾 Sales by Category
+Pie chart distribution of revenue by product category:
+
+Tea (39%)
+
+Coffee (28%)
+
+Bakery, Branded, Chocolate, etc.
+
+Helps evaluate category-wise profitability and contribution to total revenue.
+
+☕ Order Size Insights
+Breakdown of % Size Distribution Based on Orders:
+
+Regular (31%)
+
+Large (30%)
+
+Small (9%)
+
+Not Defined (30%)
+
+Useful for packaging decisions and combo offers based on popular sizes.
+
+📊 KPI Cards
+At-a-glance performance indicators at the top:
+
+Total Sales: $6,98,812.33
+
+Total Footfall: 149,116
+
+Average Bill per Person: $4.69
+
+Average Orders per Person: 1.44
+
+Allows quick performance tracking over time.
+
+📌 Visual Storytelling
+A well-designed layout with consistent colors, readable fonts, and iconography provides a clear, intuitive, and executive-friendly overview of sales performance.
 
 ### 6.1 Key Questions Answered
 - How do sales vary by day of the week and hour of the day?
