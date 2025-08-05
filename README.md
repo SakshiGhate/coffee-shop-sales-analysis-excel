@@ -20,17 +20,15 @@ The dataset was obtained from [Maven Analytics](https://www.mavenanalytics.io/),
 ## 6. Features / Highlights
 This project dashboard delivers comprehensive business intelligence using Excel tools, helping stakeholders quickly identify key trends, performance gaps, and growth opportunities. The following are the core features and highlights:
 
-###**📌 Interactive Filters**
+### **📌 Interactive Filters**
 Users can slice data by Month Name and Day Name using Excel slicers.
-
 Dynamic visuals update based on selected timeframes, enabling time-based trend analysis.
 
-##🕐 Hourly Sales Trend
+### **🕐 Hourly Sales Trend**
 The line chart visualizes Quantity Ordered Based on Hours, revealing peak business hours.
-
 Morning hours (8 AM - 10 AM) show the highest sales volume, helping optimize staffing and promotions during those times.
 
-##📅 Weekday Sales Analysis
+### **📅 Weekday Sales Analysis**
 Comparative bar chart shows footfall vs revenue for each day of the week.
 
 Enables decision-makers to identify which weekdays drive higher sales and plan special offers on slower days.
