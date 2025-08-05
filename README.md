@@ -41,7 +41,7 @@ The dataset was obtained from [Maven Analytics](https://www.mavenanalytics.io/),
 
 ## 8. How to Run the Project
 1. Download or clone this repository.
-2. Open the Excel file: `https://github.com/SakshiGhate/coffee-shop-sales-analysis-excel/blob/main/coffee%20shop%20sale%20dashboards.xlsx`
+2. Open the Excel file: `Coffee_Shop_Sales_Dashboard.xlsx`
 3. Use the slicers (Month Name, Day Name) to interact with the data.
 4. Analyze various charts and graphs to gain insights.
 5. Ensure macros are enabled if prompted (not mandatory for this dashboard).
