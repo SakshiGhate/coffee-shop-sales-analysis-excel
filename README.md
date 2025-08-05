@@ -37,7 +37,7 @@ The dataset was obtained from [Maven Analytics](https://www.mavenanalytics.io/),
 
 ## 7. Screenshot
 
-![Coffee Shop Sales Dashboard](./db4e45e2-2abc-4603-8b3b-e74781911b93.png)
+![Coffee Shop Sales Dashboard]https://github.com/SakshiGhate/coffee-shop-sales-analysis-excel/blob/main/Coffee%20Shop%20Sales.png
 
 ## 8. How to Run the Project
 1. Download or clone this repository.
