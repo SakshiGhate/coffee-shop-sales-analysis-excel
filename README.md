@@ -20,7 +20,7 @@ The dataset was obtained from [Maven Analytics](https://www.mavenanalytics.io/),
 ## 6. Features / Highlights
 This project dashboard delivers comprehensive business intelligence using Excel tools, helping stakeholders quickly identify key trends, performance gaps, and growth opportunities. The following are the core features and highlights:
 
-##📌 Interactive Filters
+###📌 **Interactive Filters**
 Users can slice data by Month Name and Day Name using Excel slicers.
 
 Dynamic visuals update based on selected timeframes, enabling time-based trend analysis.
