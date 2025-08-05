@@ -33,53 +33,39 @@ Comparative bar chart shows footfall vs revenue for each day of the week.
 
 Enables decision-makers to identify which weekdays drive higher sales and plan special offers on slower days.
 
-##🌍 Location-Wise Performance
+### **🌍 Location-Wise Performance**
 Bar chart compares footfall and total sales across different store locations:
-
 Hell's Kitchen
-
 Astoria
-
 Lower Manhattan
 
 Identifies high-performing stores for resource allocation and replication strategies.
 
-##💸 Top Performing Products
+### **💸 Top Performing Products**
 Highlights Top 5 Products Based on Sales:
-
 Barista Espresso (highest revenue)
-
 Brewed Chai Tea
-
 Hot Chocolate, etc.
-
 Guides inventory and promotional focus toward most profitable items.
 
-##🧾 Sales by Category
+### **🧾 Sales by Category**
 Pie chart distribution of revenue by product category:
-
 Tea (39%)
-
 Coffee (28%)
-
 Bakery, Branded, Chocolate, etc.
 
 Helps evaluate category-wise profitability and contribution to total revenue.
 
-##☕ Order Size Insights
+### **☕ Order Size Insights**
 Breakdown of % Size Distribution Based on Orders:
-
 Regular (31%)
-
 Large (30%)
-
 Small (9%)
-
 Not Defined (30%)
 
 Useful for packaging decisions and combo offers based on popular sizes.
 
-##📊 KPI Cards
+### **📊 KPI Cards**
 At-a-glance performance indicators at the top:
 
 Total Sales: $6,98,812.33
@@ -92,7 +78,7 @@ Average Orders per Person: 1.44
 
 Allows quick performance tracking over time.
 
-##📌 Visual Storytelling
+### **📌 Visual Storytelling**
 A well-designed layout with consistent colors, readable fonts, and iconography provides a clear, intuitive, and executive-friendly overview of sales performance.
 
 ### 6.1 Key Questions Answered
