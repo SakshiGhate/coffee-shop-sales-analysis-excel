@@ -1,10 +1,9 @@
-# coffee-shop-sales-analysis-excel
-# ☕ Coffee Shop Sales Dashboard
+# ☕ Coffee-Shop-Sales-Analysis-Excel
 
 ## 1. Project Title
 **Coffee Shop Sales Analysis Dashboard using Excel**
 
-## 2. Short Description
+## 2. Description
 This project is a visually engaging and data-driven dashboard built in Excel to analyze the sales performance of a coffee shop chain. It offers a comprehensive view of total sales, footfall, average orders, and product-wise insights for data-driven decision-making.
 
 ## 3. Problem Statement
